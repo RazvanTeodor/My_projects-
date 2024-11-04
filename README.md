@@ -1,4 +1,4 @@
-![Banner]()
+![Banner](https://github.com/RazvanTeodor/Razvan-Teodor/blob/main/Banner%20(2).webp)
 # 👋 Hi, I'm Răzvan
 
 I'm a student in Electronics, Telecommunications, and Information Technology with a passion for creating innovative tech projects. Here, you'll find some of my work in web development, embedded systems, and automation. Always learning and open to new ideas!
